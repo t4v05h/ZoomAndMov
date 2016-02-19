@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ZoomAndMov</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="chk_ios">OK</string>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
